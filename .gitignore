@@ -1,0 +1,8 @@
+#image folders
+static/images/
+static/images/avatars/
+layouts/images/
+static/images/avatars/large/
+
+#virtual environment
+venv/
